@@ -1,0 +1,2 @@
+# Turing
+wind resource assessment
